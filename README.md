@@ -115,7 +115,7 @@ The MIT License is a permissive free software license that allows you to:
 
 ## Link to Full License
 
-For more details, please refer to the full text of the [MIT License](https://github.com/SudiptaSaha20/Bank-Account-Management-System/blob/main/LICENSE).
+For more details, please refer to the full text of the [MIT License](https://github.com/SudiptaSaha20/Tic-Tac-Toe/blob/main/LICENSE).
 
 
 ---
