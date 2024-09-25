@@ -5,7 +5,6 @@ Welcome to the **Tic-Tac-Toe** game! This project is a fun and interactive imple
 ---
 
 ## Table of Contents
-
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
@@ -40,8 +39,8 @@ To run this game, you need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone https://github.com/SudiptaSaha20/Tic-Tac-Toe.git
+   cd Tic-Tac-Toe
 2. Compile the source code:
 
    ```bash
@@ -116,7 +115,7 @@ The MIT License is a permissive free software license that allows you to:
 
 ## Link to Full License
 
-For more details, please refer to the full text of the [MIT License](https://opensource.org/licenses/MIT).
+For more details, please refer to the full text of the [MIT License](https://github.com/SudiptaSaha20/Bank-Account-Management-System/blob/main/LICENSE).
 
 
 ---
