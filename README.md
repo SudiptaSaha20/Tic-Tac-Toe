@@ -9,7 +9,6 @@ Welcome to the **Tic-Tac-Toe** game! This project is a fun and interactive imple
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Game Rules](#game-rules)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -67,13 +66,6 @@ To run this game, you need:
 - Players take turns to place their sign in an empty cell.
 - The first player to align three of their signs (horizontally, vertically, or diagonally) wins the game.
 - If all cells are filled and no player has aligned three signs, the game is a tie.
-
----
-
-## Screenshots
-
-<!-- Replace with actual screenshot path -->
-**to be added
 
 ---
 
