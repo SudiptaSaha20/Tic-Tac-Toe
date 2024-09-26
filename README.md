@@ -114,8 +114,6 @@ For more details, please refer to the full text of the [MIT License](https://git
 
 ## Acknowledgements
 
-- Play against a computer or a friend.
-- Choose your sign (X or O).
-- Clear and interactive console interface.
-- Displays the game board after each turn.
-- Prompts for replay after each game.
+I would like to express my gratitude to the C++ open-source community for providing valuable resources and inspiration. Special thanks to the creators of the Standard Template Library (STL) for simplifying development, and to everyone who contributed to the development and maintenance of the tools used in this project.
+
+A big thank you to all those who play and contribute to this project, helping make it better with each iteration.
